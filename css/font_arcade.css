@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+@font-face {
+    font-family:'arcade';
+    font-style:normal;
+    font-weight:normal;
+    src:local(※),
+    url(../font/ARCADE_I.woff) format('woff'),
+	url(../font/ARCADE_I.TTF) format('truetype');
+}
