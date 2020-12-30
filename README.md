@@ -1,2 +1,2 @@
 # fnk
-site amador
+:bulb:site amador
